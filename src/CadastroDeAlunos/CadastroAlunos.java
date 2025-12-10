@@ -1,3 +1,5 @@
+package CadastroDeAlunos;
+
 import java.util.Scanner;
 
 public class CadastroAlunos {
